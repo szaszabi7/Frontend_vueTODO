@@ -27,6 +27,6 @@ li {
     border: none;
 }
 
-.done .span{
+.done, .span{
     text-decoration: line-through;
 }
